@@ -1,6 +1,7 @@
 # BDI
-Materiais de aula de banco de dados  
+Materiais de aula de banco de dados I  
 
+guilherme821 - Guilherme Martim Santos - 11024  
 adv.filipe - filipe saraiva  teixeira- 10995  
 Visomsazonado - Gabriel de Araújo Santos - 11020  
 nagas1609 - Leticia Fernanda da Silva - 10931  
